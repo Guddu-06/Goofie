@@ -1,0 +1,27 @@
+export const color = {
+  white: "#ffffff",
+  lightGreyLight: "#f3f0ff",
+  lightGreyDark: "#4a3d6b",
+  darkGreyDark: "#5b4d80",
+  primary: "#9b59f5",
+  lightMode: {
+    primaryHoverLight: "#7c3ae8",
+    navText: "#7c6fa0",
+    navHoverText: "#3d2c6e",
+    chatBackground: "#f8f5ff",
+    background: "#ffffff",
+    border: "#e8e0ff",
+    text: "#8a7aaa",
+    title: "#2d1b6e",
+  },
+  darkMode: {
+    primaryHoverDark: "#7c3ae8",
+    navText: "#b0a0d0",
+    navHoverText: "#e0d0ff",
+    chatBackground: "#212121",
+    background: "#303030",
+    border: "#424242",
+    text: "#afafaf",
+    title: "#f2f2f2",
+  },
+};
