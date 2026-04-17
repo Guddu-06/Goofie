@@ -33,4 +33,3 @@ Goofie is a realtime chat app built with Vite, React, TypeScript, Firebase, and 
 3. Add your Firebase config to `.env`
 4. `npm run dev`
 
-*Enhanced version of Chatify by MariyaTech*
